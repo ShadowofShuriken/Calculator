@@ -1,0 +1,4 @@
+﻿  Stack.cpp
+C:\Users\herge\source\repos\152120191076_Hüseyin_Topcu_lab3\152120191076_Hüseyin_Topcu_lab3\Stack.cpp(7,2): error C2059: sözdizimi hatası: '<'
+C:\Users\herge\source\repos\152120191076_Hüseyin_Topcu_lab3\152120191076_Hüseyin_Topcu_lab3\Stack.cpp(8,1): error C2143: sözdizimi hatası: ';' eksik ('{' öncesinde)
+C:\Users\herge\source\repos\152120191076_Hüseyin_Topcu_lab3\152120191076_Hüseyin_Topcu_lab3\Stack.cpp(8,1): error C2447: '{': işlev üstbilgisi eksik (eski tarzda biçimsel liste mi?)
